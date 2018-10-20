@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Basic</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="title_activity_login">Login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="logout">logout</string>
+    <string name="more">more</string>
+    <string name="image_pariwisata">image pariwisata</string>
+    <string name="candi_prambanan">Candi Prambanan</string>
+    <string name="description">Description</string>
+    <string name="location">location</string>
+    <string name="title_activity_location">Pariwisata Location</string>
+</resources>

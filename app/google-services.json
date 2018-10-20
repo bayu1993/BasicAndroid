@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "289767526154",
+    "firebase_url": "https://basic-android.firebaseio.com",
+    "project_id": "basic-android",
+    "storage_bucket": "basic-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289767526154:android:2d98d14cb27a0e3a",
+        "android_client_info": {
+          "package_name": "io.github.bayu1993.androidbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289767526154-9cl5oddcpq61gkjgihe174qh49ckscmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZrIJGFD2VPki22yXGh6nQ0gMCDdy3Gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
