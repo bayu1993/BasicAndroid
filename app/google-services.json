@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "289767526154",
-    "firebase_url": "https://basic-android.firebaseio.com",
-    "project_id": "basic-android",
-    "storage_bucket": "basic-android.appspot.com"
+    "project_number": "80893336035",
+    "firebase_url": "https://android-basic-395c8.firebaseio.com",
+    "project_id": "android-basic-395c8",
+    "storage_bucket": "android-basic-395c8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:289767526154:android:2d98d14cb27a0e3a",
+        "mobilesdk_app_id": "1:80893336035:android:2d98d14cb27a0e3a",
         "android_client_info": {
           "package_name": "io.github.bayu1993.androidbasic"
         }
       },
       "oauth_client": [
         {
-          "client_id": "289767526154-9cl5oddcpq61gkjgihe174qh49ckscmj.apps.googleusercontent.com",
+          "client_id": "80893336035-2bs1ajpbt9h9hs036qra4hhf7tmqhqb6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAsZrIJGFD2VPki22yXGh6nQ0gMCDdy3Gc"
+          "current_key": "AIzaSyC7yGqsUpjbripwZeOVWznZ7uu1MjmIy1s"
         }
       ],
       "services": {
